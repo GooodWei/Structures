@@ -1,0 +1,4 @@
+name: Structures
+version: '${project.version}'
+main: com.structures.Structures
+api-version: '1.20'
